@@ -14,3 +14,9 @@
 ## Task 04: Online Delivery
    * Determine the percentage of restaurants that offer online delivery.
    * Compare the average ratings of restaurants with and without online delivery.
+
+## Level 02
+ ## Task 01: Restaurant Ratings
+    * Analyze the distribution of aggregate ratings and determine the most common rating range.
+    * Calculate the average number of votes
+received by restaurants.
