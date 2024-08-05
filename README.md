@@ -1,1 +1,1 @@
-# Cognifyz-Technologies-Data-Analyst-Internship
+# Data Analysis Intern at Cognifyz Technologies
